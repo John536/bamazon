@@ -1,0 +1,16 @@
+{
+  "name": "homework11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCutomer.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
